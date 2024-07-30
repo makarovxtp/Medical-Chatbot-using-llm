@@ -1,4 +1,4 @@
-ctransformers
+uvicorn
 sentence-transformers
 pinecone-client
 langchain
