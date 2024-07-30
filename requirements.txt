@@ -1,7 +1,13 @@
 ctransformers
-sentence-transformers==2.2.2
+sentence-transformers==3.0.1
 pinecone-client
-langchain==0.0.225
+langchain==0.2.7
 flask
 pypdf
-
+streamlit
+streamlit-chat
+langchain
+huggingface_hub
+transformers
+-e .
+python-dotenv
