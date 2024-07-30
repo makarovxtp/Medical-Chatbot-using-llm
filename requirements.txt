@@ -1,8 +1,8 @@
 ctransformers
 sentence-transformers
 pinecone-client
-langchain==0.2.7
-langchain-pinecone==0.0.3
+langchain
+langchain-pinecone
 langchain-text-splitters
 langchain-core
 langchain-community
